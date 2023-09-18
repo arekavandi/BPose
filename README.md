@@ -4,4 +4,4 @@ Here, we introduce, B-Pose, a Bayesian Convolutional deep network capable of not
 
 P.S. This code is built on top of the DSAC* [work](https://github.com/vislearn/dsacstar).
 
-## Methodology
+## Introduction
