@@ -1,6 +1,6 @@
 # B-Pose: Bayesian Deep Network for Camera 6-DoF Pose Estimation from RGB Images
 
-Here, we introduce, B-Pose, a Bayesian Convolutional deep network capable of not only automatically estimating the camera's pose parameters from a single RGB image but also provides a measure of uncertainty in the parameter estimation.
+Here, we introduce, B-Pose, a Bayesian Convolutional deep network capable of not only automatically estimating the camera's pose parameters from a single RGB image but also providing a measure of uncertainty for the estimated parameters. BPose is published in  [IEEE Robotics and Automation Letters](https://ieeexplore.ieee.org/abstract/document/10242363)
 
 P.S. This code is built on top of the [DSAC*](https://github.com/vislearn/dsacstar).
 
