@@ -11,3 +11,15 @@ P.S. This code is built on top of the [DSAC*](https://github.com/vislearn/dsacst
 + The Samling is performed on the weights of the last layers and several scene coordinate estimations have been obtained.
 + The pose estimation and refinement have been performed for all scene coordinates.
 + The final pose is the mean of all estimated poses and the uncertainty is the associated variance of estimations.
+# Citations
+If you found this page helpful, please cite the following survey papers:
+
+```
+@article{rekavandi2023b,
+  title={B-Pose: Bayesian Deep Network for Camera 6-DoF Pose Estimation from RGB Images},
+  author={Rekavandi, Aref Miri and Boussaid, Farid and Seghouane, Abd-Krim and Bennamoun, Mohammed},
+  journal={IEEE Robotics and Automation Letters},
+  year={2023},
+  publisher={IEEE}
+}
+```
