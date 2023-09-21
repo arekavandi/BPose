@@ -11,6 +11,12 @@ P.S. This code is built on top of the [DSAC*](https://github.com/vislearn/dsacst
 + The Samling is performed on the weights of the last layers and several scene coordinate estimations have been obtained.
 + The pose estimation and refinement have been performed for all scene coordinates.
 + The final pose is the mean of all estimated poses and the uncertainty is the associated variance of estimations.
+
+## Installation
+Since this code is built on DSAC* code, Bpose requires the same python packages as DSAC* required. Additionally, we use Pyro for implementing our Bayesian network.
+```
+pip install pyro-ppl
+```
 # Citations
 If you found this page helpful, please cite the following survey papers:
 
